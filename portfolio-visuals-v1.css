@@ -1,0 +1,152 @@
+/* Command lines for the MAIN page */
+html{
+    background-color: rgb(35, 35, 54);
+}
+p{
+    font-size: 14px; 
+}
+a{
+    color: white;
+    font-size: 18px;
+}
+a:link{
+    text-decoration: none;
+    text-shadow: none;
+}
+a:visited{
+    text-decoration: none;
+    text-shadow: none;
+    font-size: 19px;
+}
+a:hover{
+    text-decoration: underline;
+    text-shadow: 2px 2px 5px black;
+    font-size: 19px;
+}
+a:active{
+    text-decoration: underline;
+    text-shadow: 2px 2px 5px black;
+    font-size: 19px;
+}
+.info{
+    background-color: rgb(46, 51, 75);
+    align-items: center;
+    text-align: center;
+    border-radius: 50px;
+    color: rgb(235, 249, 255);
+    width: 1000px;
+    margin: auto;
+    font-family: monospace;
+}
+.header{
+    background-color: white;
+}
+.gallery{
+    background-color: rgb(31, 31, 43);
+    text-align: center;
+    width: 700px;
+    color: rgb(26, 48, 175);
+    margin: auto;
+    border-radius: 30px;
+}
+#pfp{
+    width: 250px;
+    border-radius: 50%;
+    outline: white;
+    box-shadow: 0px 5px 10px black;
+}
+#name{
+    text-decoration: underline 1px;
+}
+#snake{
+    width: 250px;
+    align-content: center;
+    margin: auto;
+    display: block;
+}
+
+#hire:hover{
+    color: greenyellow;
+    font-size: 20px;
+    text-shadow: 2px 2px 5px black;
+    text-decoration: underline;
+}
+#hire:active{
+
+    color: greenyellow;
+    font-size: 20px;
+    text-shadow: 2px 2px 5px black;
+    text-decoration: underline;
+}
+#cred{
+    align-items: center;
+    text-align: center;
+    color: rgb(109, 117, 121);
+    width: 1000px;
+    margin: auto;
+    font-family: monospace;
+}
+#mug{
+    color: rgb(109, 117, 121);
+}
+#mug:hover{
+    color:rgb(0, 255, 0);
+}
+#dan{
+    color: rgb(109, 117, 121);
+}
+#dan:hover{
+    color:rgb(75, 136, 250);
+}
+#temp1{
+    font-size: 18px;
+}
+#temp1:hover{
+    text-decoration: underline;
+    text-shadow: 2px 2px 5px black;
+    font-size: 19px;
+    color:rgb(0, 255, 0);
+}
+/* here Mixes the MAIN page code line
+WITH the CONRACT page Commands */
+
+/*  Not needed, commenting out...
+.cond{
+
+font-size: 19px;
+
+}
+#ask{
+
+font-size: 22px;
+text-decoration: underline;
+}
+.info2{
+
+    background-color: rgb(43, 47, 66);
+    align-items: center;
+    text-align: center;
+    border-radius: 20px;
+    color: rgb(235, 249, 255);
+    width: 900px;
+    margin: auto;
+    font-family: monospace;
+font-size: 18px;
+}
+#email:active{
+    color: cyan;
+    text-shadow: 2px 2px 5px black;
+}
+#email:hover{
+    color: cyan;
+    text-shadow: 2px 2px 5px black;
+}
+#email{
+font-size: 20px;
+}
+#wrn{
+
+color:rgb(250, 87, 87)
+
+}
+*/
